@@ -1,11 +1,10 @@
 Package: ggmanatee
 Type: Package
-Title: What the Package Does (Title Case)
+Title: ggplot for R but with cute manatees woooo
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: @R-CoderDotCom
+Maintainer: The package maintainer <pkr20@miami.edu>
+Description: this is inspiration from the author of ggcats, changed to ggmanatee for MANATEE Research Lab at the University of Miami
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
