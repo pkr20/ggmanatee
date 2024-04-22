@@ -1,3 +1,9 @@
+**installation**
+```
+remotes::install_github(“pkr20/ggmanatee@main”)
+install.packages(“remotes”)
+library(ggmanatee)
+```
 **ggcats a fun package in R changed to ggmanatee, for plotting cute manatees**
 
 here's an example of silly manatee!
