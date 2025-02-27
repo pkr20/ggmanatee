@@ -6,7 +6,7 @@ library(ggmanatee)
 ```
 **ggcats a fun package in R changed to ggmanatee, for plotting cute manatees**
 
-here's an example of silly manatee!
+here's an example!
 
 ```
 ggplot(mtcars) +
